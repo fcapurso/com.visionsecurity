@@ -3,7 +3,8 @@
   "version": "2.9.2",
   "compatibility": ">=5.0.0",
   "platforms": [
-    "local"
+    "local",
+    "cloud"
   ],
   "connectivity": [
     "zwave"
@@ -159,7 +160,8 @@
         "nl": "Deur/Raam Sensor (ZD2102-5)"
       },
       "platforms": [
-        "local"
+        "local",
+        "cloud"
       ],
       "connectivity": [
         "zwave"
